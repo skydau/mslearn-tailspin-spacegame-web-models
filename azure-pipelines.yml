@@ -39,6 +39,6 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    publishVstsFeed: 'skydau'
+    publishVstsFeed: '5df1e2ce-1a98-4594-92bb-9ac617f4d40a/4b98156e-51bc-402b-b603-09d4a2372b6f'
     allowPackageConflicts: true
   condition: succeeded()
